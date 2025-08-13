@@ -3,8 +3,7 @@
 ###
 
 <div align="center" style="display: flex; flex-direction: column;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Naman1821&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" height="150" />
-
+ <img src="https://streak-stats.demolab.com?user=Naman1821&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman1821&theme=github_dark" height="150" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naman1821&theme=github_dark&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&hide_border=false" height="150" alt="languages graph" width="50%" />
