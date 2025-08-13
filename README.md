@@ -1,15 +1,18 @@
-# Hi there 👋  
-I'm **Naman Chawla**, an Electronics and Communication Engineering student at Punjab Engineering College, Chandigarh.  
-I love building scalable full-stack applications, solving DSA problems, and experimenting with AI tools 🚀  
+<h2 align="left">Hi 👋! My name is Naman Chawla and I'm an ECE student & passionate Full-Stack Developer from India</h2>
 
----
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman1821&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman1821&layout=compact&theme=radical)
+<div align="center" style="display: flex; flex-direction: column;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Naman1821&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" height="150" />
 
----
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naman1821&theme=github_dark" height="150" />
 
-![My code is working](https://i.imgur.com/uWZP3rY.png)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naman1821&theme=github_dark&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&hide_border=false" height="150" alt="languages graph" width="50%" />
+</div>
+
+###
+
+<img align="right" height="150" src="https://miro.medium.com/max/1290/0*s2ivt9cecdqsXvts.gif"  />
 
 ---
 
