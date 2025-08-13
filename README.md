@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Naman Chawla and I'm an ECE student & passionate Full-Stack Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Naman Chawla and I'm a Full-Stack Developer in the making, from India</h2>
 
 ###
 
@@ -14,24 +14,48 @@
 
 <img align="right" height="150" src="https://miro.medium.com/max/1290/0*s2ivt9cecdqsXvts.gif"  />
 
----
+###
 
-### 🚀 Skills & Technologies
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
-</p>
+<div align="left" style="display: grid; grid-template-columns: repeat(7, 1fr);">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="30" alt="html logo"  />
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+   <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" height="30" alt="express logo"  />
+   <img width="12"/>
+</div>
 
----
+###
 
-### 📬 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nmn_chawla)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Namanchawla10@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-chawla-59b288313)
+<div align="left">
+  <a href="https://www.instagram.com/nmn_chawla/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:Namanchawla10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/naman-chawla-59b288313/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
